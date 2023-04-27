@@ -20,6 +20,10 @@ TagManager:
   - Player2Score
   - Player3Score
   - Player4Score
+  - Player1Flame
+  - Player2Flame
+  - Player3Flame
+  - Player4Flame
   layers:
   - Default
   - TransparentFX
